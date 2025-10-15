@@ -78,6 +78,7 @@ style.css
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: oblique;
     color:rgb(244, 37, 6);
+}
 
 .cover{
     background: linear-gradient(to bottom right,#f7bd41,#17b0e8) ;  
@@ -89,10 +90,12 @@ style.css
     position: relative;
     left: 500px;
 }
+
 .main{
     margin: auto;
     border: solid 8px rgb(49, 44, 59);
 }
+
 .title{
     font-size: 12px;
     color: antiquewhite;
@@ -102,6 +105,7 @@ style.css
     left: 10px;
     width: 140px;
 }
+
 .content{
     font-size: 40px;
     text-align: center;
@@ -111,15 +115,16 @@ style.css
     color: white;
     
 }
+
 .subtitle{
     position: relative;
     left: 10px;
     font-size:18px;
     color: rgb(3, 19, 25);
 
+ 
 }
-    
-}
+
 .image{
     width: 150px; 
     height:150px;      
@@ -130,16 +135,19 @@ style.css
     background: white;
     overflow: hidden;   
 }
+
 .image img{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
+
 .edition{
     position: relative;
     top: 50px;
     left: 1px;
 }
+
 .author{
     position: relative;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -147,6 +155,7 @@ style.css
     left:20px;
     font-size: 18px;
 }
+
 .sub-bottom{
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
@@ -154,6 +163,7 @@ style.css
     left:380px;
     font-size: 15px;
 }
+
 .name{
     text-align: center;
     position: relative;
