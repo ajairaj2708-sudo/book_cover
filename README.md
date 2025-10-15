@@ -37,7 +37,7 @@ book.html
         <title>Fundamental of web application development</title> 
     </head>
     <body>
-        <div class="name"><h1>BHUVANESH.S(25015685)</h1></div>
+        <div class="name"><h1>AJAIRAJ(25017068)</h1></div>
         
         <div class="cover">
             <div class="main">
@@ -65,7 +65,7 @@ book.html
                     <hr>
                 </div>
                 <div class="author">
-                    <h2>S.Bhuvanesh</h2>
+                    <h2>ajairaj</h2>
                 </div>
                 <div class="sub-bottom"><h2>HACK</h2></div>
             </div>
