@@ -29,13 +29,15 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+book.html
+
 <html>
     <head>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="stylesheet.css">
         <title>Fundamental of web application development</title> 
     </head>
     <body>
-        <div class="name"><h1>AJAIRAJ(25017068)</h1></div>
+        <div class="name"><h1>BHUVANESH.S(25015685)</h1></div>
         
         <div class="cover">
             <div class="main">
@@ -56,24 +58,24 @@ Publish the website in the LocalHost.
                    
                 </div>
                 <div class="image">
-                    <img src="WhatsApp Image 2025-10-07 at 23.41.07_59e669de.jpg" alt="mypic">
+                    <img src="D:\web\experiment6.web\book_cover\bookapp\boom\static\1 (1).jpg" alt="mypic">
                 </div>
                 <div class="edition">
-                    <h2>LATEST edition</h2>
+                    <h2>ELITE Series</h2>
                     <hr>
                 </div>
                 <div class="author">
-                    <h2>J.AJAIRAJ</h2>
+                    <h2>S.Bhuvanesh</h2>
                 </div>
-                <div class="sub-bottom"><h2>SEC</h2></div>
+                <div class="sub-bottom"><h2>HACK</h2></div>
             </div>
        </div>
     </body>
 </html>
 
-style.css
+stylesheet.css
 
- body{
+body{
     
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: oblique;
@@ -81,7 +83,7 @@ style.css
 }
 
 .cover{
-    background: linear-gradient(to bottom right,#f7bd41,#17b0e8) ;  
+    background: linear-gradient(to bottom right,#0072ff,#00c6ff) ;  
     background-clip: border-box;
     background-position-x: right;
     background-size: cover;  
@@ -121,9 +123,7 @@ style.css
     left: 10px;
     font-size:18px;
     color: rgb(3, 19, 25);
-
- 
-}
+    }
 
 .image{
     width: 150px; 
@@ -167,8 +167,8 @@ style.css
 .name{
     text-align: center;
     position: relative;
-    right:30px;
-    color: red;
+    right:90px;
+    color: red;
 }
 
 # OUTPUT:
