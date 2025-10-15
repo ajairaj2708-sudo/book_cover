@@ -83,8 +83,11 @@ body{
 }
 
 .cover{
-    background: linear-gradient(to bottom right,#0072ff,#00c6ff) ;  
+
+    background: linear-gradient(to bottom right,#0072ff,#00c6ff);
+    
     background-clip: border-box;
+    
     background-position-x: right;
     background-size: cover;  
     height: 720px;
@@ -94,11 +97,13 @@ body{
 }
 
 .main{
+
     margin: auto;
     border: solid 8px rgb(49, 44, 59);
 }
 
 .title{
+
     font-size: 12px;
     color: antiquewhite;
     font-weight: 800;
@@ -109,6 +114,7 @@ body{
 }
 
 .content{
+
     font-size: 40px;
     text-align: center;
     position: relative;
@@ -119,6 +125,7 @@ body{
 }
 
 .subtitle{
+
     position: relative;
     left: 10px;
     font-size:18px;
@@ -126,6 +133,7 @@ body{
     }
 
 .image{
+
     width: 150px; 
     height:150px;      
     position: relative;
@@ -137,18 +145,21 @@ body{
 }
 
 .image img{
+
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
 .edition{
+
     position: relative;
     top: 50px;
     left: 1px;
 }
 
 .author{
+
     position: relative;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     top: 45px;
@@ -157,6 +168,7 @@ body{
 }
 
 .sub-bottom{
+
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     bottom:5px;
@@ -165,10 +177,12 @@ body{
 }
 
 .name{
+
     text-align: center;
     position: relative;
     right:90px;
-    color: red;
+    
+
 }
 
 # OUTPUT:
